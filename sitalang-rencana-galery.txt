@@ -2,3 +2,5 @@ Galery Sitalang
 1. Foto dokumentasi kegiatan (Jalan santai, event, tubing river)
 2. Video dokumentasi kegiatan (Video cinematic ext TikTok)
 3. Membuat Deskripsi Galery acara
+- Membuat deksripsi video kegiatan tubing
+4. Upload video di Youtube
