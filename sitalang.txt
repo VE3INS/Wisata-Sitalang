@@ -1,1 +1,7 @@
 Platform untuk pengelolaan untuk menunjang UMKM dan pariwisata lokal
+Untuk menu navigasi terdiri dari: 
+1. Home
+2. About
+3. Services
+4. Review
+5. Contact US // Berguna untuk melakukan booking
