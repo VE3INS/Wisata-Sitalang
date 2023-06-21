@@ -4,3 +4,4 @@ Galery Sitalang
 3. Membuat Deskripsi Galery acara
 > sudah membuat deskripsi kegiatan jalan santai sebanyak 2
 4. Upload video di TikTok
+5. Upload video di Youtube
